@@ -8,8 +8,8 @@ Usage
 
 Checkout the code:
 
-    git clone git://github.com/jamiew/tumblr-photo-downloader.git
-    cd tumblr-photo-downloader
+    git clone git://github.com/ysaak/tumblr-downloader.git
+    cd tumblr-downloader
 
 Run the script, specifying your blog account as the argument:
     
